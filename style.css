@@ -1,0 +1,19 @@
+.sel{
+    position: relative;
+    width: 200px;
+    padding: 10px;
+    margin: 0 auto;
+    background: #9bc7de;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+#bar{
+    width: 100%;
+    height: 300px;
+}
+.restofpage{
+    height: 100%;
+    width: 100%;
+}
